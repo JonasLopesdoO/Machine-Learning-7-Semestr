@@ -1,8 +1,6 @@
 import numpy as np
 
 class Normalize:
-
-class Normalize:
     def fit_transform(X):
         X_norm = np.copy(X)
         n_cols = X.shape[1]
